@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(127, 255, 244);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+img {
+    height: 300px;
+    ;
+}
+.div {
+    display: flex;
+}
